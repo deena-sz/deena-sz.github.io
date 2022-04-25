@@ -1,10 +1,32 @@
 body{
-    background-color: slategray;
     background-image: url("https://wallpaperaccess.com/full/323448.jpg");
 }
 .car-image{
-    width: 100px;
+    width: 200px;
 }
 .card title{
     text-align: center;
+}
+.card-block{
+    background-color: lightgray;
+}
+
+.font-spotify{
+    font-size: 50px;
+    color: green;
+}
+
+.font-facebook{
+    font-size: 50px;
+    color: darkblue
+}
+
+.font-twitter{
+    font-size: 50 px;
+    color:lightcyan
+}
+
+.font-link{
+    font-size: 50px;
+    color: mediumblue;
 }
